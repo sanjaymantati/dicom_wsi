@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import logging
 
-from .input_validation import validate_cfg
-from .run import run_instance
+from input_validation import validate_cfg
+from run import run_instance
 
 logger = logging.getLogger(__name__)
 import multiprocessing as mp

@@ -6,7 +6,7 @@ import pydicom
 from pydicom.dataset import FileMetaDataset, FileDataset
 
 # noinspection PyUnresolvedReferences,PyUnresolvedReferences,PyUnresolvedReferences
-from .utils import add_data
+from utils import add_data
 
 
 # noinspection PyUnresolvedReferences

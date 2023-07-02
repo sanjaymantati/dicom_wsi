@@ -2,7 +2,7 @@ import logging
 
 import pyvips
 
-from . import mapping as mp
+import mapping as mp
 
 logger = logging.getLogger(__name__)
 

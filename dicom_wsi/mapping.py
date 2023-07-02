@@ -1,7 +1,7 @@
 import logging
 from datetime import datetime
 import pyvips
-from . import utils
+import utils
 
 logger = logging.getLogger(__name__)
 

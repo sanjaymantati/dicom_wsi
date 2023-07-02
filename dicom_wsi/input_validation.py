@@ -2,8 +2,8 @@ import logging
 import os
 import re
 
-from . import character_validations as cv
-from .utils import get_all_keys
+import character_validations as cv
+from utils import get_all_keys
 
 logger = logging.getLogger(__name__)
 
