@@ -59,3 +59,23 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 .. _dciodvfy: https://www.dclunie.com/dicom3tools/dciodvfy.html
 .. _`file type`: https://openslide.org/
 .. _pydicom: https://pydicom.github.io/
+
+
+
+Faced issues.
+* libvips42 issue
+```bash
+$ sudo apt-get install libvips42
+```
+
+### For reference
+
+## WSI TO DICOM
+Utility -> DICOM generate
+https://github.com/dcm4che/dcm4che
+https://pydicom.github.io/
+https://www.youtube.com/watch?v=uIy2Zp0QDSU
+https://pypi.org/project/wsidicomizer/
+## Candidates
+https://pypi.org/project/dicom-wsi/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8274303/
